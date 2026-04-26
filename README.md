@@ -2,7 +2,7 @@
 
 A minimal full-stack expense tracker built for correctness over feature breadth — idempotent writes, integer money, and deterministic list ordering.
 
-**Live:** _deploy URL goes here_
+**Live:**  https://fenmo-blond.vercel.app
 **Stack:** Node + TypeScript + Fastify + SQLite (backend) · React + Vite + TanStack Query (frontend)
 
 ---
