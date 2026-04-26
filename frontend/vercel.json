@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/expenses",
+      "destination": "https://fenmo-backend-r942.onrender.com/expenses"
+    },
+    {
+      "source": "/expenses/:path*",
+      "destination": "https://fenmo-backend-r942.onrender.com/expenses/:path*"
+    }
+  ]
+}
